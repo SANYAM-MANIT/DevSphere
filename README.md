@@ -63,10 +63,13 @@ Smart railway operations and reservation platform with route scheduling, seat al
 [![Live Demo](https://img.shields.io/badge/Live_Demo-f59e0b?style=flat-square&logo=githubpages&logoColor=white)](https://sanyam-manit.github.io/RailNova/)
 [![Repository](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SANYAM-MANIT/RailNova)
 
-### 🧮 3. Smart Calcify (Smart Calculator)
-Feature-rich web calculator with operation history tracking, expression parsing, and keyboard navigation.  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2563eb?style=flat-square&logo=githubpages&logoColor=white)](https://sanyam-manit.github.io/Smart-Calcify/)
-[![Repository](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SANYAM-MANIT/Smart-Calcify)
+### 🧮 3. Smart Calcify — Interactive Web Calculator Dashboard
+An advanced, highly responsive mathematical web application featuring expression evaluation, real-time calculation history logging, keyboard accessibility bindings, and a modern glassmorphic theme interface.
+- ✨ **Key Highlights**: Real-time expression evaluation, calculation history panel, full keyboard shortcuts, invalid operation handling, and mobile responsive layout.
+- 🛠️ **Tech Stack**: HTML5, CSS3 (Glassmorphism), Vanilla JavaScript (ES6+), GitHub Pages.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-sanyam--manit.github.io/Smart--Calcify-2563eb?style=for-the-badge&logo=githubpages&logoColor=white)](https://sanyam-manit.github.io/Smart-Calcify/)
+[![Repository](https://img.shields.io/badge/GitHub_Repo-SANYAM--MANIT/Smart--Calcify-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SANYAM-MANIT/Smart-Calcify)
 
 ### ☀️ 4. Weather App & Forecast API
 Real-time weather application integrated with OpenWeather REST API for location-based weather metrics.  
