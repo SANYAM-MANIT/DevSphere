@@ -60,6 +60,7 @@ Full-stack developer portfolio featuring interactive UI, typing animations, and 
 
 ### 🚆 2. RailNova — Railway Management System
 Smart railway operations and reservation platform with route scheduling, seat allocation, and live tracking simulation.  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-f59e0b?style=flat-square&logo=githubpages&logoColor=white)](https://sanyam-manit.github.io/RailNova/)
 [![Repository](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SANYAM-MANIT/RailNova)
 
 ### 🧮 3. Smart Calcify (Smart Calculator)
