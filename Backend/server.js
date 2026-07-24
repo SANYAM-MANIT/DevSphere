@@ -20,7 +20,7 @@ app.post("/chat", async (req, res) => {
 
     // Safety check if the key isn't loaded
     if (!process.env.GEMINI_API_KEY) {
-        return res.json({ reply: "Backend error: GEMINI_API_KEY is missing from your .env file." });
+        return res.json({ reply: "Hello! I am Sanyam's AI Assistant. Sanyam is a Full Stack Developer & Competitive Programmer studying CS at MANIT. Ask me about his projects, DSA stats, or skills!" });
     }
 
     try {
@@ -58,7 +58,7 @@ app.post("/chat", async (req, res) => {
     } catch (error) {
         console.error("Gemini Error Status:", error.response ? error.response.status : "No Status");
         console.error("Gemini Error Data:", error.response ? error.response.data : error.message);
-        res.json({ reply: "AI connection error ❌ Check terminal for the Google response details." });
+        res.json({ reply: "I am Sanyam's AI Assistant! Ask me about Sanyam's projects (RailNova, DevSphere), 600+ DSA problems solved, or contact info!" });
     }
 });
 
