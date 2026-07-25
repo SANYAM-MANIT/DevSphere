@@ -123,6 +123,7 @@ npx -y serve Frontened
 - 💼 **LinkedIn**: [sanyam-jain](https://www.linkedin.com/in/sanyam-jain-7072a8378)
 - 🏆 **LeetCode**: [ja1n_sanyam_29](https://leetcode.com/u/ja1n_sanyam_29/)
 - ⚔️ **Codeforces**: [Sanyam_jain_29](https://codeforces.com/profile/Sanyam_jain_29)
+- ⚔️ **CodeChef**: [jain_sj29](https://www.codechef.com/users/jain_sj29)
 - 👨‍💻 **GitHub**: [@SANYAM-MANIT](https://github.com/SANYAM-MANIT)
 
 ---
